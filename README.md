@@ -1,2 +1,2 @@
 # HTML-PROJECT
-It is a html file that tells us about a person's details.
+A clean, image-based HTML resume with navigation links to key sections: Education, Experience, Projects, and Skills. Built with pure HTML for simplicity and fast loading.
